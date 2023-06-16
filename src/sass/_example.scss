@@ -26,3 +26,18 @@
   background-size: cover;
   background-position: center;
 }
+
+.photo-card {
+  width: 25%;
+  float: left;
+  padding: 1%;
+}
+
+.photo-card img{
+  width: 100%;
+}
+
+button.load-more {
+  display: flex;
+  align-items: center;
+}
